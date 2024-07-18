@@ -8,4 +8,16 @@
     <string name="forgot_password">Forgot Your Password ?</string>
     <string name="sign_in">Sign in</string>
     <string name="create_account"> Create new account</string>
+
+    <string name="create_account_title">Create Account</string>
+    <string name="create_account_desc">Create an account so you can explore all the existing jobs</string>
+<string name="name">Name</string>
+    <string name="contact_no">Contact No </string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="Already_account">Already have a account</string>
+
+
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="submit">Submit</string>
 </resources>
